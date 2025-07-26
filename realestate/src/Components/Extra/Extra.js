@@ -53,7 +53,7 @@ function Extra() {
             </div>
             <div className="flexCenter extra-right">
             <div className="image-container">
-                <img src="./mainimage.png" alt="main image" />
+                <img src="./mainimage.jpg" alt="main image" />
             </div>
             </div>
         </div>

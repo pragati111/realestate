@@ -13,7 +13,7 @@ const Contact = () => {
           <span className="orangeText">Our Contact Us</span>
           <span className="primaryText">Easy to contact us</span>
           <span className="secondaryText">
-            We always ready to help by providing the best services for you. We
+            We are always ready to help by providing the best services for you. We
             believe a good place to live can make your life better{" "}
           </span>
 
